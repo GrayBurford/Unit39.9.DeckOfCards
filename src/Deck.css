@@ -1,0 +1,30 @@
+.Deck {
+    background-color: green;
+    height: 600px;
+    width: 100%;
+}
+
+.Deck button {
+    border: black 2px solid;
+    border-radius: 10px;
+    padding: 15px;
+    margin: 0px 0px 15px 15px;
+    background-color: gray;
+    color: white;
+    font-weight: bolder;
+}
+
+.Deck-auto {
+    color: greenyellow;
+}
+
+.Deck-remaining {
+    color: red;
+    font-weight: 700;
+    font-size: large;
+}
+
+.Deck-id {
+    color: greenyellow;
+    font-weight: 700;
+}
